@@ -25,6 +25,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [证明 ShibaSwap 在四月底前不存在](#证明-shibaswap-在四月底前不存在)
 - [更多的元数据分析](#更多的元数据分析)
 - [5 月 19 日前 ShibaSwap 还不存在的证明](#5-月-19-日前-shibaswap-还不存在的证明)
+- [人物 "ECS"](#人物-ecs)
 
 <!-- /code_chunk_output -->
 
@@ -319,3 +320,62 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 这张新的图片不仅仅看上去是用 Photoshop 创建的，然后使用 Little CMS 进行了编辑。它还没有 ShibaSwap 理应有的功能，例如 Staking（质押）。什么？在这两个币下面甚至没有一个 “Swap”（交换）按钮。你如何交换两个币但是没有一个交换按钮？
 
 现在我们知道了某个来自西班牙的人参与了这个项目。让我们看看他们是谁？
+
+
+## 人物 "ECS"
+
+让我们看看 shibatoken.com 在 2 月 21 日的样子： https://web.archive.org/web/20210221162114/https://shibatoken.com/
+
+这里有 8 个团队成员：
+
+![](image/image-5-2.png)  
+
+现在让我们看看两周后的 3 月 2 日：
+
+![](image/image-5-10.png)  
+
+第 4 个团队成员，"ECS"，被替换上了另一个名字。其他人的名字都没有变。  
+
+所以，谁是 ECS，为什么他们的名字变了呢？
+
+我 Google 了那个名字，然后是我第一次发现这里还有一个 gov.shibatoken.com 的网站。一些一些被归档的页面：https://web.archive.org/web/*/https://gov.shibatoken.com/*
+
+gov.shibatoken.com 的 DNS 记录表明这个网站被 Hostinger 托管，一个很便宜的网站托管公司。shibatoken.com 也是这家公司托管。这个网站使用了一个叫做 Flarum 的开源软件建设。  
+
+ECS 在 2 月 20 日在 gov.shibatoken.com 上发过文章。这里可能存在更多的文章，但是时间回溯机器可能没有来得及存档，这个网站就没有了。  
+
+![](image/image-6-1.png)  
+
+现在我们拥有了 ECS 的照片。  
+
+Google 他的名字我们可以很快地找到他的网站，CV，脸书，YouTube，GitHub，邮箱，甚至更多。  
+
+![](image/image-5-22.png)
+
+他的 CV：
+
+![](image/image-5-18.png)  
+
+有一些信息在他的 CV 中值得注意：
+
+* 他恨明确地对区块连还有以太坊感兴趣。（SHIB 和 LEASH 都是以太坊的智能合约）
+* 他是秘鲁人，现在生活在莫斯科
+* 最近的是他曾经在一家区块连公司作为一名 CEO。这家公司我们暂时称为 “S Coin”。
+
+他的 GitHub：
+
+![](image/image-5-25.png)  
+
+他的 GitHub 上也有很多有趣的信息：
+
+* 除了他擅长英文写作（可以通过他的 CV，GitHub 个人页，网站，以及其他的网络博客），他的 GitHub 个人页介绍他自己为 "Mi name is ECS..."。注意这里用的是 "Mi"，而不是 "My"。这是一种孩子似的拼写方式，和 Ryoshi 在他 2020 年 8 月 20 的第一篇博客的书写方式相同。  
+* 同时说明了他在莫斯科
+* "S Coin" 又被提到了
+* 这里有三个和 “s-coin”，“coinbene”，以及 “Apicryptocurrency”(这个名字**非常非常**重要) 相关的代码仓库
+
+他的网站：
+
+![](image/image-5-13.png)  
+
+注意底部的地址: ECS Team LTD – London, WC1N 3AX。这个地址也是**非常**重要的！
+
