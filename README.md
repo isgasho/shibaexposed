@@ -24,6 +24,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [公司 "H"](#公司-h)
 - [证明 ShibaSwap 在四月底前不存在](#证明-shibaswap-在四月底前不存在)
 - [更多的元数据分析](#更多的元数据分析)
+- [5 月 19 日前 ShibaSwap 还不存在的证明](#5-月-19-日前-shibaswap-还不存在的证明)
 
 <!-- /code_chunk_output -->
 
@@ -296,6 +297,25 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 
 有趣。。。这个图片是在 2 月 2 日使用 Affinity Designer version 1.8.5 创建的。可以几乎说明是同一个人在相隔了 5 个月后在同一台电脑上创建了这两张图片 - 并且只有 Affinity Designer 升级了下。  
 
-阿，关于 CMS 呢？ 好吧。。。
+阿，关于那个 `Little CMS` 呢？ 好吧。。。
 
 
+## 5 月 19 日前 ShibaSwap 还不存在的证明
+
+让我们先不管 `Little CMS`。
+
+在 5 月 19 日，就在 ShibaSwap 理应上线的近一个月后，一张新的图片被发布到了 Twitter 和 Reddit 上，试图证明 ShibaSwap 正在被测试：https://www.reddit.com/r/SHIBArmy/comments/ng2xuh/shibaswap/
+
+![](image/image-5-20.png)
+
+在这张图片的元数据有什么呢？`Little CMS`，当然又出现了：
+
+![](image/image-3-2.png)  
+
+想要看看这个 5 月 18 日的照片以及四月底的那张证明为 Photoshop 的照片？
+
+![](image/image-6-2.png)  
+
+这张新的图片不仅仅看上去是用 Photoshop 创建的，然后使用 Little CMS 进行了编辑。它还没有 ShibaSwap 理应有的功能，例如 Staking（质押）。什么？在这两个币下面甚至没有一个 “Swap”（交换）按钮。你如何交换两个币但是没有一个交换按钮？
+
+现在我们知道了某个来自西班牙的人参与了这个项目。让我们看看他们是谁？
