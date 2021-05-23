@@ -28,6 +28,8 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [人物 "ECS"](#人物-ecs)
 - [ECS Team Ltd - 第一家位于 27 Old Gloucester Street 的公司](#ecs-team-ltd-第一家位于-27-old-gloucester-street-的公司)
 - [Cryptoknowmics.com… 然后所有事情都和 27 Old Gloucester Street 关联了起来](#cryptoknowmicscom-然后所有事情都和-27-old-gloucester-street-关联了起来)
+- [我们现在在哪儿？](#我们现在在哪儿)
+- [人物 "SHR"，Damecoins Financial Group Ltd, Trigox Ltd, 以及 ShareDetect](#人物-shrdamecoins-financial-group-ltd-trigox-ltd-以及-sharedetect)
 
 <!-- /code_chunk_output -->
 
@@ -427,3 +429,102 @@ Amazon S3 是一个用于储存文件的服务。这个链接的关键的部分�
 * 地址是 27 Old Gloucester Street
 * 一个 Twitter 用户名 - 这个账户已经被注销了 - 我不知道为什么
 
+## 我们现在在哪儿？
+
+我们现在拥有了数字以及真实世界的关联：
+
+* shibatoken.com
+* leashdoge.com
+* the website for “Company H”
+* person “ECS”
+* the company “ECS Team Ltd”
+* cryptoknowmics.com
+* 2 companies registered at 27 Old Gloucester Street
+
+然后这里有更多事情连在一起了。。。
+
+## 人物 "SHR"，Damecoins Financial Group Ltd, Trigox Ltd, 以及 ShareDetect
+
+记得我曾经说过 ECS 的一个代码仓库将会 **非常非常重要**？看看这个，它拥有一个
+
+![](image/image-5-8.png)  
+
+看看下面的描述。它一部分描述了 ShibaSwap 将要做什么。  
+
+再看看最近的代码提交时间： 3 月 15 日。这可能就是 ShibaSwap 被放弃的时间。  
+
+这里还有一个叫做 `documentation.md` 的文件。他描述了很多 "API 端口"
+
+![](image/image-5-21.png)  
+
+看上去 ECS 想要开源这些代码，但是想要先消除真实的域名。这里所有例子的域名都是 "domain.com"。但是他看上去忘记了在几个地方替换掉这个真实域名，留下了 damecoins.com！
+
+![](image/image-6-5.png)  
+
+你们猜猜 Damecoins.com 的底部地址是啥？我给你们两个猜测，但是你只会看到这个：
+
+![](image/image-1-5.png)  
+
+又是 27 Old Gloucester Street！
+
+顺便提一下，邮箱地址 “support@damecoins.co.uk” 并不工作。这个域名没有 MX DNS 记录，所以无法向它发送邮件。  
+
+我们如何证明 Damecoins.com 运行着 ECS 的 "API Cryptocurrency" 代码仓库的代码呢？我们去到代码中提到的链接中：https://api.damecoins.com/calculate/btc
+
+![](image/image-5-24.png)  
+
+找到了！
+
+啊，猜猜 Damecoins 的 HTML？又是  OwlCarousel2！
+
+除了是英文的网站，一些文字还使用了西班牙语的问号，这里的问号是上下颠倒的：
+
+![](image/image-3-3.png)  
+
+谁拥有 Damecoins 呢？让我们回到 Companies House 并且查询...
+
+![](image/image-4-5.png)  
+
+“Incorporated on 25 August 2020”... 这正是 ECS 在 28 号注册他的公司的 3 天前。  
+
+这里是人员列表：
+
+![](image/image-5-3.png)  
+
+是 "SHR"！
+
+看看他的国籍 - 西班牙 - 和刚才 Photoshop 过的 ShibaSwap 的图片对应上了。
+
+看看他的职位 - 设计师 - 正好是那种知道如何使用 Photoshop 的人！
+
+让我们继续看。  
+
+人们在网络上如何评价 Damecoins 呢？这是一个欺诈网站... 并且 SHR 甚至被全名了：
+
+![](image/image-3-4.png)  
+
+让我们看看 damecoins.com 网站上的一张图片的元数据 `damecoins.com/methodpayQR/1615343778Alipay 2.jpg`
+
+![](image/image-5-27.png)  
+
+Mac 上的 Photoshop 版本 21 - 正好和创建 ShibaSwap 图片的一样。时间戳显示 UTC+01:00 冬令时，正好是西班牙时间。  
+
+"SHR" 还拥有什么其他的公司呢？一个叫做 “Trigox Limited”，也是注册与伦敦有名的办公楼，27 Old Gloucester Street。
+
+![](image/image-4.png)
+
+Trigox 的网站
+
+![](image/image-5-5.png)  
+
+英文里：“Trigox Limited is a UK-founded business group that is the owner and parent of a wide range of trade names and technology companies. Our maxim: Efficient execution obscures vain efforts. Contact us at info (at) trigox.com”
+
+这还没完，当然。  
+
+我们可以继续 Google 这个地址和手机号，然后发现 SHR 拥有的另一家叫做 ShareDetect.com 的网站:
+
+![](image/image-5-11.png)  
+
+Damecoins，Trigox，以及 ShareDetect 都是被 LugoInternet.com 托管的，根据他们的 DNS 记录。  
+
+## "S Coin"
