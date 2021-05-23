@@ -32,6 +32,8 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [人物 "SHR"，Damecoins Financial Group Ltd, Trigox Ltd, 以及 ShareDetect](#人物-shrdamecoins-financial-group-ltd-trigox-ltd-以及-sharedetect)
 - ["S Coin"](#s-coin)
 - [资金线索](#资金线索)
+- [别的人](#别的人)
+- [结语](#结语)
 
 <!-- /code_chunk_output -->
 
@@ -588,3 +590,17 @@ Damecoins，Trigox，以及 ShareDetect 都是被 LugoInternet.com 托管的，�
 在 9 月 18 日，0x0cbf4dfc34e01296c05c89d73819aae23824b4da 和 “Merkle Distributer” 在  https://etherscan.io/address/0x2a398bba1236890fb6e9698a698a393bb8ee8674 的交易中互动 - 从这里开始，线索很难追寻了，但是我猜测这就是最初的 LEASH 分散给了不同的账户。  
 
 0x0cbf4dfc34e01296c05c89d73819aae23824b4da 被交易所 “MXC” 资助了 1 ETH - https://etherscan.io/tx/0xabf9fa58a977a6762e6577ca246cec136bf7e59dd223b5d77720bb086a6596f8
+
+## 别的人
+
+这里还有最后一个可能参与的人。Shiba 的网站曾经连接过他们的 logo 到到 Dribble.com - 我怀疑这可能就是 logo 第一次创建的时候。那个 Dribble 用户看上去已经删除了他们的公司信息，所有现在很难对上信息，虽然他们确实在过去几年里发布过 Doge 相关的图片。  
+
+Discord 和 Reddit 上有很多社区管理员。绝大多数的他们都对这些不知道。但是，这也不能原谅他们 - 他们依然参与到了这个荒唐的事情中，并且为社区提供了非常少的有用的信息。一些人（我特别指出名为 Cat 的）故意装傻且使我生疑。  
+
+虽然某些事情也暗示 VB 可能也参与了，但是我 99% 确定这些是错误的线索用于麻痹投资者们的。在我看来，VB 与这些事情完全无关。  
+
+## 结语
+
+我很抱歉如果你在这个项目中损失了财产。但愿 DeFi 的欺诈者们未来一天会被审判。  
+
+如果你想要因为某些原因联系到我，你可以发送邮件到 areyouryoshi@protonmail.com。不要发送邮件给我抱怨自己被骗了 - 我没有参与到过这个项目！ 
