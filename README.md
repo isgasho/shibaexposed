@@ -30,6 +30,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [Cryptoknowmics.com… 然后所有事情都和 27 Old Gloucester Street 关联了起来](#cryptoknowmicscom-然后所有事情都和-27-old-gloucester-street-关联了起来)
 - [我们现在在哪儿？](#我们现在在哪儿)
 - [人物 "SHR"，Damecoins Financial Group Ltd, Trigox Ltd, 以及 ShareDetect](#人物-shrdamecoins-financial-group-ltd-trigox-ltd-以及-sharedetect)
+- ["S Coin"](#s-coin)
 
 <!-- /code_chunk_output -->
 
@@ -528,3 +529,26 @@ Trigox 的网站
 Damecoins，Trigox，以及 ShareDetect 都是被 LugoInternet.com 托管的，根据他们的 DNS 记录。  
 
 ## "S Coin"
+
+记得 ECS 的 GitHub 和 CV？他现在是一个叫做 “S Coin” 货币（这里不是 SHIB！）的 CEO。
+
+记得 gov.shibatoken.com 这个网站吗？这个新的币也有一个 gov 的子域名：
+
+![](image/image-3-6.png)  
+
+多么巧合... 那个 "Proposal"（提议）是什么？"SCoinSwap"？！ ECS 本来是想要一开始搭建 ShibaSwap，但是却最终上线了 Damecoins。然后现在是他另一个币的交易所的提议。  
+
+让我们看看 S Coin 的主网站的 HTML：
+
+![](image/image-5-6.png)  
+
+759 Pinewood Avenue… 这个是不是就是美国版的伦敦 27 Old Gloucester Street？是的没错！
+
+* https://wagmi.marketing/
+* [Home](https://ghazal.gallery/)  
+* https://spiroxmarketing.com/
+* https://tao.network/shop/
+* https://saifurrifat.com/contact/
+
+这些网站都写有 759 Pinewood Avenue 在它们的 HTML 的代码中。他们都是虚拟货币相关的！并且都用了 OwlCarousel2。  
+
