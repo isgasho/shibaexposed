@@ -126,7 +126,25 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 
 ![](image/image-1.png)  
 
-很有趣 - leashdoge.com 没有在 shibatoken.com 上被提及 - 这个链接已经被删除了。想要进一步证明 leashdoge.com 曾经被用于作为 LEASH 的官方网站，可以看看[Ryoshi 在 2021 年 2 月 1 号的这篇文章](https://allhailtheshiba.medium.com/the-ascension-of-shib-and-next-steps-for-leash-4aea97ea4f25)。
+很有趣 - leashdoge.com 没有在 shibatoken.com 上被提及 - 这个链接已经被删除了。想要进一步证明 leashdoge.com 曾经被用于作为 LEASH 的官方网站，可以看看[Ryoshi 在 2021 年 2 月 1 号的这篇文章](https://allhailtheshiba.medium.com/the-ascension-of-shib-and-next-steps-for-leash-4aea97ea4f25)中提到了 leashdoge.com。
+
+现在我们拥有了两个源头证明了 leashdoge.com 曾经是官方的一个域名。  
+
+![](image/image-1-1.png)  
+
+这个看上去挺差的，看上去也很就没有更新过了。  
+
+这个网站的 DNS 记录显示了它被 thcservers.com 托管。这是一个非常便宜的网站托管。  
+
+有些时候，软件开发者会在网站的代码中署名。例如，在 shibatoken.com 网站曾经使用了一个叫做 Nicepage.com 的工具，并且 HTML 代码包含了 `<meta name=”generator” content=”Nicepage 3.10.2, nicepage.com”>`。  
+
+在 leashdoge.com 上，相似的代码也出现了，但是不是 nicepage.com，而是：
+
+![](image/image.png)  
+
+我给截图中的名字以及链接打了马赛克，但是这就是公司 "H"。我们继续去看这个链接。。。
+
+
 
 
 
