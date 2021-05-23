@@ -26,6 +26,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [更多的元数据分析](#更多的元数据分析)
 - [5 月 19 日前 ShibaSwap 还不存在的证明](#5-月-19-日前-shibaswap-还不存在的证明)
 - [人物 "ECS"](#人物-ecs)
+- [ECS Team Ltd - 第一家位于 27 Old Gloucester Street 的公司](#ecs-team-ltd-第一家位于-27-old-gloucester-street-的公司)
 
 <!-- /code_chunk_output -->
 
@@ -379,3 +380,20 @@ Google 他的名字我们可以很快地找到他的网站，CV，脸书，YouTu
 
 注意底部的地址: ECS Team LTD – London, WC1N 3AX。这个地址也是**非常**重要的！
 
+## ECS Team Ltd - 第一家位于 27 Old Gloucester Street 的公司
+
+所有英国的公司都有关键信息 - 例如他们的地址以及人员 - 列举于一个叫做 Companies House 的网站上。  
+
+让我们在上面搜索 ECS Team Ltd：
+
+![](image/image-5-12.png)  
+
+现在我们知道了全地址 - 27 Old Gloucester Street, London, WC1N 3AX.
+
+我们再来看看这个公司的人员：
+
+![](image/image-4-4.png)  
+
+ECS 又出现了，当然，但是这里还有一个看上去俄罗斯的名字, "GK"。这个页面也进一步证明了 ECS 的出生日期以及他是一个秘鲁人。  
+
+值得注意的是，这家公司成立于 8 月 28 日，正好是 LEASH 的只能合约被创建的前一天，然后是 “Ryoshi” 创建他的第一篇博客文章的 3 个星期后。  
