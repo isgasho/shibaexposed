@@ -23,6 +23,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [Leashdoge.com](#leashdogecom)
 - [公司 "H"](#公司-h)
 - [证明 ShibaSwap 在四月底前不存在](#证明-shibaswap-在四月底前不存在)
+- [更多的元数据分析](#更多的元数据分析)
 
 <!-- /code_chunk_output -->
 
@@ -267,5 +268,34 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 更有趣的是这些图片的创建时间。记得 ShibaSwap 理应在四月底上线。但是被推迟了因为要做 "audit"。但是那个模糊的图片是在 3 月 9 日创建的，并且在 4 月 28 日取消了模糊。
 
 有趣的是，shibatoken.com/img/home2.png 没有同样的 Photoshop 的元数据，但是很明显的是和过去那张的光亮模式下的界面是一样的，所以很明显这些图片被故意地消除掉了元数据来隐藏这个谎言。  
+
+## 更多的元数据分析
+
+这里有太多的可以写的信息，但是我只想写更多的一些文件来强调的观点。 
+
+白皮书的 PDF 是被某人在 UTC+02:00 的时区，例如西班牙，创建的：
+
+![](image/image-4-1.png)  
+
+这里是一个来自于旧网站的的图片的链接：https://shibaexposed.files.wordpress.com/2021/05/0285a-04dd44_029f706ae81b4498b8cbaaf2f8fe9749mv2.png
+
+
+![](image/image-6-9.png)  
+
+![](image/image-3-5.png)  
+
+看一下时间戳: September 3rd, 2020 (2020 年 9 月 3 日) - 正好是 Leash 的智能合约创建的后一天。看看使用的软件：Affinity Designer version 1.8.4.
+
+这里是另外一张 Hotbit 的图片（Hotbit 是一个交易所 - 我没有说他们参与到了这个项目中）：  https://shibaexposed.files.wordpress.com/2021/05/cfcde-04dd44_ced2a1a62060450f9f2c1fc0860aa22dmv2.png
+
+![](image/image-5-1.png)  
+
+元数据：
+
+![](image/image-4-2.png)  
+
+有趣。。。这个图片是在 2 月 2 日使用 Affinity Designer version 1.8.5 创建的。可以几乎说明是同一个人在相隔了 5 个月后在同一台电脑上创建了这两张图片 - 并且只有 Affinity Designer 升级了下。  
+
+阿，关于 CMS 呢？ 好吧。。。
 
 
