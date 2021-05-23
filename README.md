@@ -31,6 +31,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [我们现在在哪儿？](#我们现在在哪儿)
 - [人物 "SHR"，Damecoins Financial Group Ltd, Trigox Ltd, 以及 ShareDetect](#人物-shrdamecoins-financial-group-ltd-trigox-ltd-以及-sharedetect)
 - ["S Coin"](#s-coin)
+- [资金线索](#资金线索)
 
 <!-- /code_chunk_output -->
 
@@ -552,3 +553,38 @@ Damecoins，Trigox，以及 ShareDetect 都是被 LugoInternet.com 托管的，�
 
 这些网站都写有 759 Pinewood Avenue 在它们的 HTML 的代码中。他们都是虚拟货币相关的！并且都用了 OwlCarousel2。  
 
+## 资金线索
+
+这里是 shibatoken.com 在 2020 年 10 月的归档：https://web.archive.org/web/20201024062132/https://www.shibatoken.com/
+
+这个页面链接到了  “Staking Pool Contract” (LEASH / Doge Killer)“
+
+*  https://etherscan.io/address/0x966a707d9787fd5be0c38900f393f0ff86a0ac1b
+* https://etherscan.io/address/0xa221af4a429b734abb1cc53fbd0c1d0fa47e1494
+
+这个智能合约在 9 月 2 日 UTC 02:42 创建 - 
+
+ https://etherscan.io/tx/0xfa6bf0e4b2edb00faad3d0a2ad74d0e6c8f77a61c0f0f9782068ebd36793979b
+
+第一个与这个合约交互的地址是 0xe5590ea681fba3c1998fafca73112efc95a9510d，一个小时之后，在 UTC 4am：https://etherscan.io/tx/0x6447935a07a3ffe539c2a00519e19b1f35ed6651220010dd39c8195221b6d907
+
+第二天，9 月 3 日 UTC 6pm，那个地址（0xe5590ea681fba3c1998fafca73112efc95a9510d）使用 Uniswap 购买了 SHIB -  https://etherscan.io/tx/0x7ef8e9cb5269abe6900baf888989b8d48bb427484bdb602459122b36ed74e655  - 当时价值 $20，现在价值 $383000。因此可以证明这些地址是 SHIB+LEASH 的最初的创建者。  
+
+一个小时候，9 月 3 日 7pm，那 $383000 的 SHIB 被发送到了 0x966a707d9787fd5be0c38900f393f0ff86a0ac1b -  https://etherscan.io/tx/0x5a40a8d0b1bafb9a6911fc2b2e265d731f641744c54d1b4a044531a11fe373a1
+
+所有人都可以发送币到任何地址，所以"进来"的交易，例如 “Vitalik Shiba Buterin” 应该被忽略。但是“出来”的交易只能被钱包/合约的拥有者操控，这一点值得继续追踪。  
+
+2020 年 9 月 3 日后，那个钱包发送了 SHIB 和 LEASH 到很多的其他钱包，这就是资金线索我们可以跟踪的来找到谁在现实世界中收到了钱。  
+
+8 天前，0xe5590ea681fba3c1998fafca73112efc95a9510d 发送了 127万 美金到 0x4e68ccd3e89f51c3074ca5072bbac773960dfa36 -  https://etherscan.io/tx/0xe20e1e0fd3123d2299414712db2ab0a6d2c2b91061ac3ed52d233562898b29e7 看上去卖出了很多的 LEASH 在这两个交易中：https://etherscan.io/tx/0x319a25e9e8320b33b2c9c870cc265393b77d2a09448f58ec2d351855cda7d1b9 和 https://etherscan.io/tx/0x558c210ef2e48ba9c7d75efd5b1123a21a52371dbc698b2cac0b992c93887ceb
+
+这个地址同时出售了例如 "ART"（2020 年 12 月）以及 “NAOStoken”（最近）的货币。  
+
+其他和 "Doge Killer" 合约互动过的早期地址包括 0x0cbf4dfc34e01296c05c89d73819aae23824b4da 和 0xd38c09cb05ae23f78e67759ad0120de22ff1f579
+
+在 Doge Killer 被创造的一周前，8 月 23 日，0xd38c09cb05ae23f78e67759ad0120de22ff1f579 受到了一个叫做 "WENrug" 的货币的资金 -  https://etherscan.io/tx/0xaefc6e7d2c8828b8a253ce7bf4a81138f03136d850a79bc439fabe03533c6e47
+
+
+在 9 月 18 日，0x0cbf4dfc34e01296c05c89d73819aae23824b4da 和 “Merkle Distributer” 在  https://etherscan.io/address/0x2a398bba1236890fb6e9698a698a393bb8ee8674 的交易中互动 - 从这里开始，线索很难追寻了，但是我猜测这就是最初的 LEASH 分散给了不同的账户。  
+
+0x0cbf4dfc34e01296c05c89d73819aae23824b4da 被交易所 “MXC” 资助了 1 ETH - https://etherscan.io/tx/0xabf9fa58a977a6762e6577ca246cec136bf7e59dd223b5d77720bb086a6596f8
