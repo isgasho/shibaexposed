@@ -22,6 +22,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [在我们进入细节之前，为什么我现在发布这篇文章？](#在我们进入细节之前为什么我现在发布这篇文章)
 - [Leashdoge.com](#leashdogecom)
 - [公司 "H"](#公司-h)
+- [证明 ShibaSwap 在四月底前不存在](#证明-shibaswap-在四月底前不存在)
 
 <!-- /code_chunk_output -->
 
@@ -209,8 +210,62 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 
 让我们先不谈公司 H，让后继续看看其他的线索。  
 
+## 证明 ShibaSwap 在四月底前不存在
 
+回到 shibatoken.com。让我们使用时间回溯机器看看这个网站在 3 月 18 日的样子：
 
+![](image/image-5.png)  
 
+这看上去像是 ShibaSwap 的图形界面，但是做了模糊化处理，然后是一个标语 “spread the word to reveal the UI”（分享这句话来显示这个界面）。  
+
+然后是在四月 2 日：
+
+![](image/image-5-9.png)
+
+在这个界面下方，我们可以看到两张模糊的 ShibaSwap 的截图：
+
+![](image/image-5-29.png)  
+
+让我们用一个叫做 `exiftool` 的工具来查看下这些图片的元数据：
+
+![](image/image-5-7.png)  
+
+啊，这很奇怪。。。元数据显示这些模糊的图片是使用 Photoshop 在 3 月 9 日创建的。他不是一个浏览器中网站的真实截图。。。好，也许这只是在 3 月早期用 Photoshop 制作的图片，但是网站也是真的有的？
+
+回到今天，这个网站有不再是模糊的图片了！
+
+![](image/image-5-14.png)  
+
+所以 ShibaSwap 真的存在？
+
+别着急！
+
+让我们看看黑暗模式下截图的元数据：
+
+![](image/image-5-28.png)  
+
+这里有很多有趣的东西。
+
+首先，我们可以看到这不是网站的截图 - 因为这张图片是被 Mac 上的 Photoshop 版本 21 创建的。
+
+当然，也可能是先拍了截图，然后再用 Photoshop 进行了编辑。但是... 底部的元数据是什么？ “Text Layer Name…. Capa 528…. New token woofing soon!… Select a token…” 这就是事情开始变得可疑了。一张网站的截图不应该拥有页面的文字在元数据中才对。这个界面肯定是使用 Photoshop 创建的，就像是 3 月 9 日的图片一样，并且 Photoshop 保存了图片文字层的内容在元数据中。
+
+视觉上看，一个月了什么也没有变 - 仅仅是模糊被去掉了
+
+然后是文字 "Capa 528" 是什么意思呢？它出现在了图片的元数据中而不是界面上。并且这里还有“Capa 38” 以及 “Capa 39”。后来我发现，“Capa” 在西班牙语中意味着 “Layer”（图层）。看看这个 [Photoshop 的帮助页面](https://helpx.adobe.com/es/photoshop/using/layer-basics.html)。  
+
+![](image/image-5-4.png)  
+
+所以我们现在可以说明他们团队声称的 ShibaSwap 的截图仅仅是用一台西班牙语上面的 Photoshop 制作的。  
+
+但是很多国家也说西班牙语 - 西班牙，阿根廷，莫斯科。。。幸运的是，图片的元数据还揭露了编辑者的地理位置：
+
+![](image/image-4-3.png)  
+
+注意时间戳后面的 “+01.00” 以及 “+02:00” 。这些 UTC 的数值和西班牙相对应。在冬天以及 3 月早期，西班牙的时区是 UTC+1:00。在夏天，时区为 UTC+02:00。
+
+更有趣的是这些图片的创建时间。记得 ShibaSwap 理应在四月底上线。但是被推迟了因为要做 "audit"。但是那个模糊的图片是在 3 月 9 日创建的，并且在 4 月 28 日取消了模糊。
+
+有趣的是，shibatoken.com/img/home2.png 没有同样的 Photoshop 的元数据，但是很明显的是和过去那张的光亮模式下的界面是一样的，所以很明显这些图片被故意地消除掉了元数据来隐藏这个谎言。  
 
 
