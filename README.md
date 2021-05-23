@@ -27,6 +27,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [5 月 19 日前 ShibaSwap 还不存在的证明](#5-月-19-日前-shibaswap-还不存在的证明)
 - [人物 "ECS"](#人物-ecs)
 - [ECS Team Ltd - 第一家位于 27 Old Gloucester Street 的公司](#ecs-team-ltd-第一家位于-27-old-gloucester-street-的公司)
+- [Cryptoknowmics.com… 然后所有事情都和 27 Old Gloucester Street 关联了起来](#cryptoknowmicscom-然后所有事情都和-27-old-gloucester-street-关联了起来)
 
 <!-- /code_chunk_output -->
 
@@ -397,3 +398,32 @@ Google 他的名字我们可以很快地找到他的网站，CV，脸书，YouTu
 ECS 又出现了，当然，但是这里还有一个看上去俄罗斯的名字, "GK"。这个页面也进一步证明了 ECS 的出生日期以及他是一个秘鲁人。  
 
 值得注意的是，这家公司成立于 8 月 28 日，正好是 LEASH 的只能合约被创建的前一天，然后是 “Ryoshi” 创建他的第一篇博客文章的 3 个星期后。  
+
+## Cryptoknowmics.com… 然后所有事情都和 27 Old Gloucester Street 关联了起来
+
+准备把所有信息连在一起了吗？
+
+让我们看看在 3 月 2 日的 shibatoken.com：https://web.archive.org/web/20210302134431/https://www.shibatoken.com/
+
+看见那个 Uniswap 的 logo 图片了吗？
+
+![](image/image-1-3.png)  
+
+这张图片不是被 shibatoken.com 托管的，而是在另一个域名上。这个域名是什么呢？https://s3-ap-southeast-2.amazonaws.com/www.cryptoknowmics.com/crypto/wp-content/uploads/2020/08/unis.png
+
+Amazon S3 是一个用于储存文件的服务。这个链接的关键的部分是 www.cryptoknowmics.com
+
+那么什么是 www.cryptoknowmics.com 呢？
+
+![](image/image-6-8.png)  
+
+他们的地址没有出现在这个网站上，但是却在 HTML 代码里作为元数据出现了
+
+![](image/image-5-26.png)
+
+注意这个 HTML：
+
+* 这个网站使用了 "OwlCarousel2" - 我们之前在公司 H 的网站上也看到过。
+* 地址是 27 Old Gloucester Street
+* 一个 Twitter 用户名 - 这个账户已经被注销了 - 我不知道为什么
+
