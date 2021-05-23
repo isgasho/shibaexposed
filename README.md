@@ -21,6 +21,7 @@ https://shibaexposed.wordpress.com/2021/05/22/shiba-inu-token-exposed/
 - [谁参与了](#谁参与了)
 - [在我们进入细节之前，为什么我现在发布这篇文章？](#在我们进入细节之前为什么我现在发布这篇文章)
 - [Leashdoge.com](#leashdogecom)
+- [公司 "H"](#公司-h)
 
 <!-- /code_chunk_output -->
 
@@ -144,10 +145,69 @@ SHIB 和 LEASH 已经走了很远，拥有了远远超过历史上其他虚拟�
 
 我给截图中的名字以及链接打了马赛克，但是这就是公司 "H"。我们继续去看这个链接。。。
 
+## 公司 "H"
 
+这是秘鲁版本的他们的网站首页：
 
+![](image/image-5-15.png)
+![](image/image-6-4.png)
+![](image/image-8.png)  
 
+（注意图中的紫色的椅子）  
 
+这里还有个英文版本的网站：
+
+![](image/image-5-16.png)
+![](image/image-2.png)
+
+所以，这是一家专注于金融/银行软件开发的公司。这是想要创造一个虚拟货币的很有用的技能。  
+
+在主页上有一个视频，在我的感觉上 - 就风格而论 - 很像是过去在 shibatoken.com 上使用过的视频。  
+
+首先，音乐不是很不同。  
+
+视觉上，下面是对比：
+
+<!-- comment -->
+
+“扫把式”的特效：
+![](image/image-6.png)
+
+“白色的旋转方块”：
+![](image/image-6-3.png)  
+![](image/image-1-4.png)  
+
+这个视频显示了一个便签笔记 "create token" - 很像一个 DeFi 币？他们正在白板一个叫做 "DigiWallet" 的东西。  
+
+![](image/image-3-7.png)  
+
+这个视频显示了同样个紫色的椅子，和我们之前看到过的照片中出现的一模一样，确定了照片和视频都来自于同一家（真实的）公司。  
+
+![](image/image-3-1.png)  
+
+网站的 DNS 记录现实它被一家伊朗公司托管 - hostiran.net 和/或 arvancloud.com。
+
+网站的 IP 是 5.144.130.32。这个 IP 出现在了有过网络犯罪的[黑名单](https://github.com/firehol/blocklist-ipsets/blob/master/hphosts_emd.ipset)中。  
+
+这个网站使用了一个第三方的叫做 “OwlCarousel2” 的 JavaScript 库。我曾经在一家软件开发公司工作过很长的时间，并且从来没有听说过这么一个库，所以这个库的名字吸引了我的眼球。请记住这个信息 - 我们稍后还会回到这里。  
+
+后来继续调查，这个网站的 Google Tag Manager ID 是 `GTM-P8K3VFF`，Google Analytics ID 是 `1637547337`，Hotjar ID 是 `1467398`，Raychat ID 是 `08463674-2545-49da-b533-e7638ef6d1e4`。  
+
+我们可以概括为公司 H 是被签约建设 leashdoge.com （也 shibatoken.com 也可能是）的。  
+
+我们可以继续推论在这家公司工作的某个人是 SHIB/LEASH 的创造者。在 Linkedin 上搜索在这家公司工作的人，我发现了他，一个管理领导：
+
+![](image/image-5-23.png)  
+
+在这个页面的底部有什么？一篇 2020 年 12 月 6 日，标题（写于秘鲁语和英语）为 “CrYptO CuRrEnCy -rise and fall” 的文章。  
+
+这篇文章写于秘鲁语，并且和 Doge 以及 Shiba 没有关联。但是它确立了这个管理领导对虚拟货币的兴趣，并且这个文章的写作时间就是 Shiba Inu 项目开始的时间左右。  
+
+![](image/image-5-17.png)  
+
+在我的眼中，这个信息 - 特别是在 leashdoge.com 中隐藏在 HTML 里提到过的公司 H - 很明显地显示了公司 H 参与到了 LEASH 以及可能 SHIB 的项目中。  
+
+让我们先不谈公司 H，让后继续看看其他的线索。  
 
 
 
